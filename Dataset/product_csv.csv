@@ -1,0 +1,21 @@
+﻿product_id,product_name,category,subcategory,price,cost,brand
+1,iPhone Lite,Electronics,Phones,45000,36000,AppleTech
+2,Galaxy Core,Electronics,Phones,38000,30000,SamsungPro
+3,Pixel Neo,Electronics,Phones,42000,33500,GoogleX
+4,ThinkBook 14,Electronics,Laptops,65000,52000,LenovoMax
+5,Inspiron Air,Electronics,Laptops,58000,46500,DellPrime
+6,Pavilion Smart,Electronics,Laptops,62000,50000,HPVision
+7,Ergo Chair Basic,Furniture,Chairs,8500,6200,FurniHome
+8,Executive Chair Pro,Furniture,Chairs,14500,10800,FurniElite
+9,Wooden Dining Chair,Furniture,Chairs,6200,4300,WoodCraft
+10,Office Work Desk,Furniture,Tables,12500,9200,FurniHome
+11,Conference Table XL,Furniture,Tables,28500,21500,FurniElite
+12,Study Table Compact,Furniture,Tables,9500,6900,WoodCraft
+13,A4 Premium Paper Pack,Office Supplies,Paper,450,250,PaperPlus
+14,Notebook Bundle,Office Supplies,Paper,650,380,WriteMate
+15,Sticky Notes Set,Office Supplies,Paper,220,120,OfficeHub
+16,Ball Pen Pack,Office Supplies,Writing,180,90,WriteMate
+17,Marker Set Pro,Office Supplies,Writing,350,180,OfficeHub
+18,Mechanical Pencil Kit,Office Supplies,Writing,520,280,WriteMate
+19,USB Keyboard,Electronics,Accessories,1800,1100,TechGear
+20,Wireless Mouse,Electronics,Accessories,2200,1400,TechGear

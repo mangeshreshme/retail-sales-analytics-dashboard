@@ -1,0 +1,98 @@
+﻿customer_id,customer_name,gender,city,state,join_date,customer_segment
+4,Priya Singh,Female,Hyderabad,Telangana,2022-04-18,Consumer
+5,Karan Joshi,Male,Nagpur,Maharashtra,2022-05-09,Corporate
+6,Sneha Sharma,Female,Pune,Maharashtra,2022-06-14,Consumer
+7,Rohit Patel,Male,Mumbai,Maharashtra,2022-07-22,Home Office
+8,Anjali Kumar,Female,Hyderabad,Telangana,2022-08-03,Corporate
+9,Vikram Singh,Male,Nagpur,Maharashtra,2022-09-11,Consumer
+10,Pooja Joshi,Female,Pune,Maharashtra,2022-10-07,Home Office
+11,Amit Patel,Male,Mumbai,Maharashtra,2022-11-16,Corporate
+12,Neha Kumar,Female,Hyderabad,Telangana,2022-12-01,Consumer
+13,Rahul Singh,Male,Nagpur,Maharashtra,2023-01-12,Corporate
+14,Priya Sharma,Female,Pune,Maharashtra,2023-02-18,Consumer
+15,Karan Patel,Male,Mumbai,Maharashtra,2023-03-09,Home Office
+16,Sneha Kumar,Female,Hyderabad,Telangana,2023-04-21,Corporate
+17,Rohit Singh,Male,Nagpur,Maharashtra,2023-05-15,Consumer
+18,Anjali Sharma,Female,Pune,Maharashtra,2023-06-08,Home Office
+19,Vikram Patel,Male,Mumbai,Maharashtra,2023-07-17,Corporate
+20,Pooja Kumar,Female,Hyderabad,Telangana,2023-08-02,Consumer
+21,Amit Singh,Male,Nagpur,Maharashtra,2023-09-12,Corporate
+22,Neha Sharma,Female,Pune,Maharashtra,2023-10-04,Consumer
+23,Rahul Patel,Male,Mumbai,Maharashtra,2023-11-19,Home Office
+24,Priya Kumar,Female,Hyderabad,Telangana,2023-12-07,Corporate
+25,Karan Singh,Male,Nagpur,Maharashtra,2024-01-13,Consumer
+26,Sneha Patel,Female,Pune,Maharashtra,2024-02-06,Corporate
+27,Rohit Kumar,Male,Mumbai,Maharashtra,2024-03-14,Home Office
+28,Anjali Singh,Female,Hyderabad,Telangana,2024-04-09,Consumer
+29,Vikram Sharma,Male,Nagpur,Maharashtra,2024-05-16,Corporate
+30,Pooja Patel,Female,Pune,Maharashtra,2024-06-01,Consumer
+31,Amit Kumar,Male,Mumbai,Maharashtra,2022-01-19,Corporate
+32,Neha Singh,Female,Hyderabad,Telangana,2022-02-22,Home Office
+33,Rahul Sharma,Male,Nagpur,Maharashtra,2022-03-17,Consumer
+34,Priya Patel,Female,Pune,Maharashtra,2022-04-29,Corporate
+35,Karan Kumar,Male,Mumbai,Maharashtra,2022-05-12,Consumer
+36,Sneha Singh,Female,Hyderabad,Telangana,2022-06-18,Home Office
+37,Rohit Sharma,Male,Nagpur,Maharashtra,2022-07-06,Corporate
+38,Anjali Patel,Female,Pune,Maharashtra,2022-08-13,Consumer
+39,Vikram Kumar,Male,Mumbai,Maharashtra,2022-09-20,Home Office
+40,Pooja Singh,Female,Hyderabad,Telangana,2022-10-11,Corporate
+41,Amit Joshi,Male,Nagpur,Maharashtra,2022-11-23,Consumer
+42,Neha Joshi,Female,Pune,Maharashtra,2022-12-16,Corporate
+43,Rahul Joshi,Male,Mumbai,Maharashtra,2023-01-27,Home Office
+44,Priya Joshi,Female,Hyderabad,Telangana,2023-02-14,Consumer
+45,Karan Sharma,Male,Nagpur,Maharashtra,2023-03-19,Corporate
+46,Sneha Joshi,Female,Pune,Maharashtra,2023-04-06,Consumer
+47,Rohit Joshi,Male,Mumbai,Maharashtra,2023-05-11,Home Office
+48,Anjali Joshi,Female,Hyderabad,Telangana,2023-06-22,Corporate
+49,Vikram Joshi,Male,Nagpur,Maharashtra,2023-07-10,Consumer
+50,Pooja Sharma,Female,Pune,Maharashtra,2023-08-28,Corporate
+51,Amit Mehta,Male,Mumbai,Maharashtra,2023-09-03,Consumer
+52,Neha Mehta,Female,Hyderabad,Telangana,2023-10-15,Home Office
+53,Rahul Mehta,Male,Nagpur,Maharashtra,2023-11-08,Corporate
+54,Priya Mehta,Female,Pune,Maharashtra,2023-12-19,Consumer
+55,Karan Mehta,Male,Mumbai,Maharashtra,2024-01-08,Corporate
+56,Sneha Mehta,Female,Hyderabad,Telangana,2024-02-12,Consumer
+57,Rohit Mehta,Male,Nagpur,Maharashtra,2024-03-20,Home Office
+58,Anjali Mehta,Female,Pune,Maharashtra,2024-04-17,Corporate
+59,Vikram Mehta,Male,Mumbai,Maharashtra,2024-05-07,Consumer
+60,Pooja Mehta,Female,Hyderabad,Telangana,2024-06-18,Corporate
+61,Amit Verma,Male,Nagpur,Maharashtra,2022-01-07,Consumer
+62,Neha Verma,Female,Pune,Maharashtra,2022-02-13,Corporate
+63,Rahul Verma,Male,Mumbai,Maharashtra,2022-03-25,Home Office
+64,Priya Verma,Female,Hyderabad,Telangana,2022-04-10,Consumer
+65,Karan Verma,Male,Nagpur,Maharashtra,2022-05-21,Corporate
+66,Sneha Verma,Female,Pune,Maharashtra,2022-06-03,Consumer
+67,Rohit Verma,Male,Mumbai,Maharashtra,2022-07-15,Home Office
+68,Anjali Verma,Female,Hyderabad,Telangana,2022-08-27,Corporate
+69,Vikram Verma,Male,Nagpur,Maharashtra,2022-09-09,Consumer
+70,Pooja Verma,Female,Pune,Maharashtra,2022-10-24,Corporate
+71,Amit Gupta,Male,Mumbai,Maharashtra,2022-11-04,Consumer
+72,Neha Gupta,Female,Hyderabad,Telangana,2022-12-13,Home Office
+73,Rahul Gupta,Male,Nagpur,Maharashtra,2023-01-05,Corporate
+74,Priya Gupta,Female,Pune,Maharashtra,2023-02-16,Consumer
+75,Karan Gupta,Male,Mumbai,Maharashtra,2023-03-28,Corporate
+76,Sneha Gupta,Female,Hyderabad,Telangana,2023-04-12,Consumer
+77,Rohit Gupta,Male,Nagpur,Maharashtra,2023-05-23,Home Office
+78,Anjali Gupta,Female,Pune,Maharashtra,2023-06-04,Corporate
+79,Vikram Gupta,Male,Mumbai,Maharashtra,2023-07-14,Consumer
+80,Pooja Gupta,Female,Hyderabad,Telangana,2023-08-25,Corporate
+81,Amit Deshmukh,Male,Nagpur,Maharashtra,2023-09-06,Consumer
+82,Neha Deshmukh,Female,Pune,Maharashtra,2023-10-18,Corporate
+83,Rahul Deshmukh,Male,Mumbai,Maharashtra,2023-11-02,Home Office
+84,Priya Deshmukh,Female,Hyderabad,Telangana,2023-12-11,Consumer
+85,Karan Deshmukh,Male,Nagpur,Maharashtra,2024-01-21,Corporate
+86,Sneha Deshmukh,Female,Pune,Maharashtra,2024-02-09,Consumer
+87,Rohit Deshmukh,Male,Mumbai,Maharashtra,2024-03-16,Home Office
+88,Anjali Deshmukh,Female,Hyderabad,Telangana,2024-04-03,Corporate
+89,Vikram Deshmukh,Male,Nagpur,Maharashtra,2024-05-14,Consumer
+90,Pooja Deshmukh,Female,Pune,Maharashtra,2024-06-06,Corporate
+91,Amit Kulkarni,Male,Mumbai,Maharashtra,2022-01-11,Consumer
+92,Neha Kulkarni,Female,Hyderabad,Telangana,2022-02-26,Corporate
+93,Rahul Kulkarni,Male,Nagpur,Maharashtra,2022-03-08,Home Office
+94,Priya Kulkarni,Female,Pune,Maharashtra,2022-04-15,Consumer
+95,Karan Kulkarni,Male,Mumbai,Maharashtra,2022-05-30,Corporate
+96,Sneha Kulkarni,Female,Hyderabad,Telangana,2022-06-09,Consumer
+97,Rohit Kulkarni,Male,Nagpur,Maharashtra,2022-07-19,Home Office
+98,Anjali Kulkarni,Female,Pune,Maharashtra,2022-08-31,Corporate
+99,Vikram Kulkarni,Male,Mumbai,Maharashtra,2022-09-14,Consumer
+100,Pooja Kulkarni,Female,Hyderabad,Telangana,2022-10-20,Corporate
