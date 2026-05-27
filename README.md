@@ -40,13 +40,11 @@ Also I built interactive dashboards to track key business metrics like revenue, 
 
 ## Business Insights Generated
 Through this dashboard, I analyzed:
-- Top performing regions
-- Most profitable products
-- Customer repeat purchase behavior
-- Sales growth trends
-- Discount impact on profitability
-- Payment method preferences
-- Product category performance
+- Identified top-performing regions by revenue and profitability
+- Analyzed repeat customer behavior and retention trends
+- Compared product performance by revenue, quantity, and profit margin
+- Evaluated discount impact on business profitability
+- Tracked month-over-month growth and YTD performance
 
 ## Project Files
 This repository includes:
